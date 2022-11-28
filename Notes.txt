@@ -63,7 +63,7 @@
                  while (PhaseOfMoon == FULL_MOON)
                  {
                      /* ... еще 40 строк кода ...*/
-                 } /* конец блока while (PhaseOfMoon == FULL_MOON */
+                 } /* конец блока while (PhaseOfMoon == FULL_MOON) */
              } /* конец блока if (IncomingMissile) */
              
              
